@@ -1,7 +1,5 @@
 import sys
-import time
-import lib_book as lb
+b
 
-
-printf("Good day & hello Juergen")
-lb.types("Electronics")
+def types(x):
+	printf("My book is ", x)
